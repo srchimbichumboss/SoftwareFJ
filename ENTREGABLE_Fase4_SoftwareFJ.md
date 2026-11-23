@@ -251,3 +251,4 @@ En concordancia con el Criterio 4 de la rúbrica de evaluación (30 puntos), el 
 - Python Software Foundation. (2024). *Errors and exceptions — Python 3.12 documentation*. Python.org. https://docs.python.org/3/tutorial/errors.html
 - Python Software Foundation. (2024). *Logging facility for Python*. Python.org. https://docs.python.org/3/library/logging.html
 - Universidad Nacional Abierta y a Distancia. (2026). *Guía de actividades y rúbrica de evaluación – Fase 4: Manejo de excepciones (Curso Programación 213023)*. Vicerrectoría Académica y de Investigación (VIACI).
+
