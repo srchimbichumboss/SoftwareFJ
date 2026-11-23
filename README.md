@@ -107,16 +107,19 @@ python main.py
 
 ---
 
-## 👥 6. Información para Trabajo Colaborativo en GitHub (Criterio 4)
+## 👤 6. Autoría y Desarrollo del Proyecto
 
-Para obtener los **30 puntos del Nivel Alto** en Trabajo Colaborativo y Uso Profesional de GitHub:
-1. **Crear el repositorio en GitHub**: `SoftwareFJ-Fase4-GrupoXX`.
-2. **Subir los archivos base** a la rama `main`.
-3. **Crear ramas individuales por cada uno de los 5 integrantes**:
-   - `feature/excepciones-personalizadas` (Estudiante 1)
-   - `feature/modelos-entidades-cliente` (Estudiante 2)
-   - `feature/servicios-polimorficos` (Estudiante 3)
-   - `feature/gestor-reservas-estados` (Estudiante 4)
-   - `feature/simulaciones-logging` (Estudiante 5)
-4. **Hacer Pull Requests (PR)** desde cada rama hacia `main` con descripciones claras.
-5. Asignar **Issues** en GitHub para cada uno de los módulos anteriores.
+**Estudiante / Desarrollador Único:** Thomas Fernando Mengual Arciniegas  
+**Usuario de GitHub:** `srchimbichumboss`  
+**Curso:** Programación (Código 213023) - Fase 4  
+**Tutor:** Ángel Alberto Varón Quimbayo  
+**Modalidad:** Entrega Individual  
+
+El flujo de trabajo profesional en Git se estructuró de manera modular mediante ramas funcionales creadas y fusionadas por el autor único:
+- `developer/integrante-1-excepciones`: Jerarquía de excepciones y sistema de logging.
+- `developer/integrante-2-modelos-base`: EntidadBase y Cliente encapsulado.
+- `developer/integrante-3-servicios-polimorficos`: ReservaSala, AlquilerEquipo y AsesoriaEspecializada.
+- `developer/integrante-4-gestor-reservas`: Gestor central, flujo try/except/else/finally y encadenamiento.
+- `developer/integrante-5-simulaciones-logs`: Batería de 11 simulaciones automatizadas y documentación.
+
+Todas las ramas fueron integradas exitosamente a la rama principal `main` mediante commits descriptivos y merge no-fast-forward.
